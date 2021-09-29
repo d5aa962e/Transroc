@@ -1,3 +1,4 @@
+# This file is from https://github.com/go-gitea/gitea/blob/master/options/gitignore/KiCad
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 # Format documentation: http://kicad-pcb.org/help/file-formats/
 
@@ -24,3 +25,15 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# FreeCAD Backup files
+*.FCStd1
+*.FCStd2
+*.FCStd3
+*.FCStd4
+*.FCStd5
+*.FCStd6
+*.FCStd7
+*.FCStd8
+*.FCStd9
+/Board/Transroc.pretty/packages3d/old
