@@ -2,7 +2,7 @@ Shortly after the prjoect started, a build log thread was created over on the EE
 
 
 ##EEVBlog (technical discussion)
-[The Transroc: Cloning a 1970s Model Rocket 27MHz Telemetry Transmitter](https://www.eevblog.com/forum/projects/the-transroc-cloning-a-1970s-model-rocket-27mhz-telemetry-transmitter)
+[The Transroc Cloning a 1970s Model Rocket 27MHz Telemetry Transmitter](https://www.eevblog.com/forum/projects/the-transroc-cloning-a-1970s-model-rocket-27mhz-telemetry-transmitter)
 
 The main technical build log.  Discussions here were (mostly) electronics related.
 
