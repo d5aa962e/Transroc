@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R_US_45deg
+D Resistor, US symbol
+K R res resistor
+F ~
+$ENDCMP
+#
+#End Doc Library

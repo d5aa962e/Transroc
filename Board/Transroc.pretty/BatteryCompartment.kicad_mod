@@ -1,0 +1,12 @@
+(module BatteryCompartment (layer F.Cu) (tedit 5FAC36B1)
+  (fp_text reference REF** (at -0.7874 1.27) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value BatteryCompartment (at -0.1778 -2.413) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start -0.254 -0.254) (end -0.254 0.254) (layer F.SilkS) (width 0.15))
+  (fp_line (start 0 -0.508) (end 0 0.508) (layer F.SilkS) (width 0.15))
+  (fp_line (start 0 0) (end 0 -0.508) (layer F.SilkS) (width 0.15))
+  (fp_line (start -0.762 0) (end 0 0) (layer F.SilkS) (width 0.15))
+)
