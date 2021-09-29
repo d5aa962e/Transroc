@@ -27,15 +27,15 @@
 |	1	|	Plastic Bottom Transmitter Mount	|	7, 10	|						|
 |	1	|	Plastic Thumb Transmitter Mount	|	7, 10	|						|
 |	1	|	Plastic Top Transmitter Mount	|	7, 10	|						|
-|	1	|	Powdered Iron coil slug, 1/4" dia x 1/2" long (Antenna)	|	8, 10	|						|
-|	1	|	Powdered Iron coil slug, 3/16" dia x 5/16" long (Oscillator)	|	8, 10	|						|
+|	1	|	Powdered Iron  slug, 1/4" dia x 1/2" long	|	8, 10	|						|
+|	1	|	Powdered Iron  slug, 3/16" dia x 5/16" long 	|	8, 10	|						|
 |	1	|	Crystal, 27.125 MHz (or frequency of choice)	|	9, 10	|						|
 
 
 #### Notes
 
 1. These parts can be ordered from most electronics suppliers.  If a part is substituted, make sure the new part physically fits in the alloted space.
-2. This resistor is only needed for testing, and not needed if you have a current limitted power supply
+2. This resistor is only needed for testing, and not needed if you have a current limitted power supply.
 3. These parts are hard to find, but not impossible.
 4. These are the lengths given in the Owner's Manual.  
 5. The battery contacts are made from 0.01" Brass Strips. 
