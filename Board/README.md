@@ -1,1 +1,1 @@
-The schematic and circuit board was designed with KiCad 5.1.9.  
+The schematic and circuit board were designed with KiCad 5.1.9.  
