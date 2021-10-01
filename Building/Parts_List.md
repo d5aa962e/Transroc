@@ -22,21 +22,22 @@
 |	1	|	Wire, 2 1/4" Black	|	4, 10	|						|
 |	1	|	Wire, 30" White	|	4, 10	|						|
 |	2	|	Brass Battery Contacts	|	5, 10	|						|
-|	1	|	PC Board with Coils	|	6, 10	|						|
+|	1	|	PC Board with Coils<ul><li>PC Board</li><li>Large Coil Form</li><li>Small Coil Form</li><li>30-gauge Magnet Wire</li>|	6, 10	|						|
 |	1	|	Plastic Battery Cup	|	7, 10	|						|
 |	1	|	Plastic Bottom Transmitter Mount	|	7, 10	|						|
 |	1	|	Plastic Thumb Transmitter Mount	|	7, 10	|						|
 |	1	|	Plastic Top Transmitter Mount	|	7, 10	|						|
-|	1	|	Powdered Iron  slug, 1/4" dia x 1/2" long	|	8, 10	|						|
-|	1	|	Powdered Iron  slug, 3/16" dia x 5/16" long 	|	8, 10	|						|
+|	1	|	Powdered Iron coil slug, 1/4" dia x 1/2" long (Antenna)	|	8, 10	|						|
+|	1	|	Powdered Iron coil slug, 3/16" dia x 5/16" long (Oscillator)	|	8, 10	|						|
 |	1	|	Crystal, 27.125 MHz (or frequency of choice)	|	9, 10	|						|
+
 
 
 #### Notes
 
 1. These parts can be ordered from most electronics suppliers.  If a part is substituted, make sure the new part physically fits in the alloted space.
 2. This resistor is only needed for testing, and not needed if you have a current limitted power supply.
-3. These parts are hard to find, but not impossible.
+3. These parts are hard to find in their original package, but not impossible.
 4. These are the lengths given in the Owner's Manual.  
 5. The battery contacts are made from 0.01" Brass Strips. 
 6. The board with coils must be built from scratch.

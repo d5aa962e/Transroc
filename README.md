@@ -8,7 +8,7 @@ The TRANSROC is a model rocket telemetry accessory designed by Estes Industries 
   <img src="images/Finsihed_Transroc.png"/>
 </p>
 
-This project is a functional historically accurate recreation of the original transmitter, designed from photos of actual TRANSROCs, as well as from measurements and data from the original manual.
+This project is a functional, historically accurate recreation of the original transmitter, designed from photos of actual TRANSROCs, as well as from measurements and data from the original manual.
 
 The TRANSROC described here is the "B" Configuration model.  The "B" version was an improved version distributed by Estes after the first 1000 kits were manufactured.  These improvements made the kit easier to build, and simplified the installing the varioius telemetry modules.
 
