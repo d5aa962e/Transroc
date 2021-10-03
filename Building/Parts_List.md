@@ -35,6 +35,7 @@ A large portion of the total is from shipping costs.  To help lower the shipping
 |	3	|	Transistor, 2N5172 NPN	|	3	|	$3.80	|	2368-2N5172-ND	|
 |	1	|	Transistor, 2N6027 PUJT	|	3	|	$3.10	|	2368-NTE6402-ND	|
 |	2	|	A23 Battery	|		|	$1.44	|	N403-ND	|
+|	1	|	CdS Photocell #5549	|		|	$1.96	|	PDV-P9005-1-ND	|
 |	1	|	Wire, 1 3/8" Red	|	4	|		|		|
 |	1	|	Wire, 2 1/4" Black	|	4	|		|		|
 |	1	|	Wire, 30" White	|	4	|		|		|
@@ -55,7 +56,9 @@ A large portion of the total is from shipping costs.  To help lower the shipping
 
 
 
-Part number ending with -ND are sourced from Digikey.  [This](https://www.digikey.com/short/73qt3h2c) link will create a Cart at Digikey with the cooresponding parts added.
+
+
+Part number ending with -ND are sourced from Digikey.  [This](https://www.digikey.com/short/vf7v8fh8) link will create a Cart at Digikey with the cooresponding parts added.
 
 #### Notes
 
