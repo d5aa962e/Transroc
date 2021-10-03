@@ -12,5 +12,5 @@ This project is a functional, historically accurate recreation of the original t
 
 The TRANSROC described here is the "B" Configuration model.  The "B" version was an improved version distributed by Estes after the first 1000 kits were manufactured.  These improvements made the kit easier to build, and simplified the installing the varioius telemetry modules.
 
-Most of the manuals can be found on [transroc.org](https://transroc.org).  The "B" Configuration manual can be found [here](Manuals_and_Datasheets)).
+Most of the manuals can be found on [transroc.org](https://transroc.org).  The "B" Configuration manual can be found [here](Manuals_and_Datasheets).
 
