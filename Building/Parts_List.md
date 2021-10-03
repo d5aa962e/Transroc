@@ -7,6 +7,7 @@ A large portion of the total is from shipping costs.  To help lower the shipping
 
 
 
+
 |	Quantity	|	Description	|	Notes	|	Approx $	|	Part #	|
 |:---------:		|:-------------------------------------------		|:-----------:		|:-----------	|:------------	|:-----------	|:------------	|
 |	2	|	Capacitor, 0.01 uf ceramic disc	|	1,a	|	$0.42	|	BC1078CT-ND	|
