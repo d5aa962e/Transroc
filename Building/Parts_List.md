@@ -53,6 +53,8 @@ A large portion of the total is from shipping costs.  To help lower the shipping
 |	1	|	Powdered Iron coil slug, 3/16" dia x 5/16" long (Oscillator)	|	8,c	|	$2.50	|	TH35-0201 	|
 |	1	|	Crystal, 27.125 MHz (or frequency of choice)	|	9	|	$10.00	|		|
 
+
+
 Part number ending with -ND are sourced from Digikey.  [This](https://www.digikey.com/short/73qt3h2c) link will create a Cart at Digikey with the cooresponding parts added.
 
 #### Notes
