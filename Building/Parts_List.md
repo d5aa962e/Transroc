@@ -4,8 +4,15 @@ While most parts can be ordered online, the hardest items to find are the iron c
 
 A large portion of the total is from shipping costs.  To help lower the shipping, I have a limitted quantity of the following parts to offer up at cost.  Please contact me for more information.
 
-
-
+	Powdered Iron coil slug, 1/4" dia x 1/2" long (Antenna)
+	Powdered Iron coil slug, 3/16" dia x 5/16" long (Oscillator)
+	Evergreen Tube 9/32" (enough for two coil forms)
+	Evergreen Tube 1/4" (enough for two coil forms)
+	Blank PC Board
+	Brass strips (enough for three contacts)
+	Transistor, 2N5138 PNP
+	Transistor, 2N5172 NPN
+	Transistor, 2N6027 PUJT
 
 
 
