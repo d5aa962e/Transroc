@@ -1,0 +1,10 @@
+
+                       Ref
+Part #       Material  Perm    Drive    Thread  Dia.    Len.
+TH35-0201 	-1 	20 	HEX 	10-32 	0.18 	0.312 	
+TH48-0106F 	-6 	8.5 	HEX 	1/4-28 	0.248 	0.5 	
+
+https://datasheets.micrometals.com/TH35-0201-DataSheet.pdf
+https://datasheets.micrometals.com/TH48-0106F-DataSheet.pdf
+
+https://www.micrometals.com/products/product-finder/
