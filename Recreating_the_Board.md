@@ -30,6 +30,7 @@ The basic steps were as follows:
   <img src="images/copper_overlay_from_manual.jpg"/>
 </p>The above image shows two Filled Zones moved away from their proper locations to illustrate the zones vs. the new bitmap component.
 
+<p></p>
 &nbsp;
 5. As with the Copper layer, Gimp was used to make a high-contrast image of the Silk layer from the manual:
 
