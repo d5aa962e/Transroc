@@ -1,6 +1,6 @@
 # Lessons Learned
 
-Being a "Digital" person, I assumed there would be challenges in building out a RF project.  I was pleasantly surprised that the analog and RF aspects of the build went surprisingly smoothly.  There were a few Lessons Learned which are worth noting however:
+Being a "Digital" person, I assumed there would be challenges in building out an RF project.  I was pleasantly surprised that the analog and RF aspects of the build went surprisingly smooth.  There were a few Lessons Learned which are worth noting however:
 
 #### Design for Manufacturing (cut sheet vs. strip brass)
 
