@@ -1,9 +1,9 @@
 # The TRANSROC Model Rocket Transmitter
 
-### A Recreation of the 1970s Estes Model Rocket Transmitter
-
 <p align="center"><b><a href="https://www.instructables.com/The-TRANSROC-a-Retro-Model-Rocket-Telemetry-Transm/">**** Runner Up in the October 2021 "Retro Tech" Instructable contest! ****</a></b>
 <br></p>
+
+### A Recreation of the 1970s Estes Model Rocket Transmitter
 
 The TRANSROC is a model rocket telemetry accessory designed by Estes Industries in the early 1970s.  The TRANSROC transmitted in the 27MHz Citizen Band frequency range, and could be built in several configurations, each designed to relay data from various types of sensors.
  
